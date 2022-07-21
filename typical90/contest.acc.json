@@ -221,7 +221,11 @@
       "id": "typical90_ag",
       "label": "033",
       "title": "Not Too Bright（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ag"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ag",
+      "directory": {
+        "path": "033",
+        "testdir": "tests"
+      }
     },
     {
       "id": "typical90_ah",
